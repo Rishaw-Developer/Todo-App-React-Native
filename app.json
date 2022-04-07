@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Rishaw's Todos App",
+    "slug": "Rishaw-Todos-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CodeWith.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1c2566"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.CodeWithRishaw.TodosApp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.CodeWithRishaw.TodosApp",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/CodeWith.png"
+    },
+    "description": "This is a todo's app by Rishaw Developer"
+  }
+}
